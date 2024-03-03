@@ -2,8 +2,10 @@
 <h1 align="center">Hi 👋, I'm Anggun Caksono</h1>
 
 ## 💫 About Me:
-I'm a FullStack developer, from Indonesia.
-I have experience as a Web Developer. I am currently learning Cloud computing at [Bangkit Academy 2024](https://grow.google/intl/id_id/bangkit/).
+
+<h3 align="center">I'm a FullStack developer, from Indonesia.
+I have experience as a Web Developer. I am currently learning Cloud computing at Bangkit Academy 2024.</h3>
+
 ##
 
 
@@ -32,14 +34,10 @@ I have experience as a Web Developer. I am currently learning Cloud computing at
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
 [![](https://visitcount.itsvg.in/api?id=alrescha79-cmd&icon=1&color=6)](https://visitcount.itsvg.in)
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ##
 <h5 align="center">&copy Copyright 2024 | Anggun Caksono</h5>
 
-##
+---
