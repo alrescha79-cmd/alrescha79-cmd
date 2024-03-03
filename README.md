@@ -23,9 +23,9 @@ I have experience as a Web Developer. I am currently learning Cloud computing at
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-## 📊 GitHub Stats:  <img src="https://visitor-badge.laobi.icu/badge?page_id=alrescha79-cmd.alrescha79-cmd&left_color=aqua"  />
-![](https://github-readme-stats.vercel.app/api?username=alrescha79-cmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+## 📊 GitHub Stats:  <img src="https://visitor-badge.laobi.icu/badge?page_id=alrescha79-cmd.alrescha79-cmd&left_color=aqua"  />    [![](https://visitcount.itsvg.in/api?id=alrescha79-cmd&icon=1&color=6)](https://visitcount.itsvg.in)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alrescha79-cmd&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=alrescha79-cmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alrescha79-cmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
@@ -34,7 +34,6 @@ I have experience as a Web Developer. I am currently learning Cloud computing at
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-[![](https://visitcount.itsvg.in/api?id=alrescha79-cmd&icon=1&color=6)](https://visitcount.itsvg.in)
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ##
