@@ -39,3 +39,7 @@ I have experience as a Web Developer. I am currently learning Cloud computing at
 [![](https://visitcount.itsvg.in/api?id=alrescha79-cmd&icon=1&color=6)](https://visitcount.itsvg.in)
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
+##
+<h5 align="center">&copy Copyright 2024 | Anggun Caksono</h5>
+
+##
