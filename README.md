@@ -39,7 +39,7 @@ I have experience as a Freelance Full Stack Developer. I am currently studying C
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alrescha79-cmd/alrescha79-cmd/output/snake.svg" alt="Snake animation" />
 
 ###
 
