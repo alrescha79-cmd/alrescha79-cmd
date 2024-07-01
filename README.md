@@ -3,8 +3,8 @@
 
 ## 💫 About Me:
 
-<h3 align="center">I'm a Front End Developer, from Indonesia.
-I have experience as a Web Developer. I am currently learning Cloud computing at Bangkit Academy 2024.</h3>
+<h3 align="center">I'm a Full Stack Developer, from Tuban Regency, East Java, Indonesia
+I have experience as a Freelance Full Stack Developer. I am currently studying Cloud computing at Bangkit Academy 2024..</h3>
 
 ##
 
