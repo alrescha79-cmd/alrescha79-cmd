@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Anggun Caksono</h1>
 
-## 💫 About Me:
+## 💫 About Me
 
 <h3 align="center">I'm a Full Stack Developer, from Tuban Regency, East Java, Indonesia
  <br>
@@ -9,12 +9,12 @@ I have experience as a Freelance Full Stack Developer. I am currently studying C
 
 ##
 
+## 🌐 Socials
 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/angguncaksono) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anggun.caksono) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@alrescha79) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angguncaksono)
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/angguncaksono) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anggun.caksono) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@alrescha79) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/angguncaksono) 
+## 💻 Tech Stack
 
-## 💻 Tech Stack:
 <br clear="both">
 
 <div align="left">
@@ -90,28 +90,32 @@ I have experience as a Freelance Full Stack Developer. I am currently studying C
 </div>
 
 ###
+
 ## 📊 GitHub Stats:  <img src="https://visitor-badge.laobi.icu/badge?page_id=alrescha79-cmd.alrescha79-cmd&left_color=aqua"  />    [![](https://visitcount.itsvg.in/api?id=alrescha79-cmd&icon=1&color=6)](https://visitcount.itsvg.in)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alrescha79-cmd&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=alrescha79-cmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alrescha79-cmd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=alrescha79-cmd&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/alrescha79-cmd/alrescha79-cmd/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
 ##
+
 <h5 align="center">&copy Copyright 2024 | Anggun Caksono</h5>
 
 ---
