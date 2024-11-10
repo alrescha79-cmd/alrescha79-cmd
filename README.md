@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Anggun Caksono</h1>
 
+
+##
 ## 💫 About Me
 
 <h3 align="center">I am an enthusiastic Informatics Engineering student and Fullstack Developer, an alum of Bangkit Academy 2024. I have skills in web and mobile app development, cloud computing, and am proficient in React, Node.js, Google Cloud Platform, and Agile methodologies. Selected for Bangkit’s Entrepreneur Track, I gained startup experience and am open to opportunities in software development and cloud technology, ready to contribute to innovative projects.</h3>
