@@ -14,16 +14,100 @@
 
 ## 💻 Tech Stack
 
-| **Category**             | **Technologies**                                                                                                     |
-|--------------------------|---------------------------------------------------------------------------------------------------------------------|
-| **Programming Languages**| <img src="https://skillicons.dev/icons?i=js" width="40"> <img src="https://skillicons.dev/icons?i=ts" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40"> <img src="https://skillicons.dev/icons?i=kotlin" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"> <img src="https://skillicons.dev/icons?i=php" width="40"> |
-| **Frontend Development** | <img src="https://skillicons.dev/icons?i=react" width="40"> <img src="https://skillicons.dev/icons?i=nextjs" width="40"> <img src="https://skillicons.dev/icons?i=vite" width="40"> <img src="https://skillicons.dev/icons?i=astro" width="40"> <img src="https://skillicons.dev/icons?i=tailwind" width="40"> <img src="https://skillicons.dev/icons?i=bootstrap" width="40"> <img src="https://cdn.simpleicons.org/mui/007FFF" width="40"> <img src="https://cdn.simpleicons.org/html5/E34F26" width="40"> <img src="https://cdn.simpleicons.org/css3/1572B6" width="40"> |
-| **Backend Development**  | <img src="https://skillicons.dev/icons?i=nodejs" width="40"> <img src="https://skillicons.dev/icons?i=express" width="40"> <img src="https://skillicons.dev/icons?i=flask" width="40"> |
-| **Mobile App Development**| <img src="https://cdn.simpleicons.org/android/3DDC84" width="40"> <img src="https://reactnative.dev/img/header_logo.svg" width="40"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"> |
-| **AI/ML**                | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"> |
-| **Database**             | <img src="https://skillicons.dev/icons?i=mongodb" width="40"> <img src="https://skillicons.dev/icons?i=mysql" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"> <img src="https://skillicons.dev/icons?i=sqlite" width="40"> |
-| **Cloud & DevOps**       | <img src="https://skillicons.dev/icons?i=gcp" width="40"> <img src="https://skillicons.dev/icons?i=aws" width="40"> <img src="https://skillicons.dev/icons?i=firebase" width="40"> <img src="https://skillicons.dev/icons?i=docker" width="40"> <img src="https://skillicons.dev/icons?i=kubernetes" width="40"> |
-| **Others**               | <img src="https://skillicons.dev/icons?i=matlab" width="40"> <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40"> <img src="https://cdn.simpleicons.org/git/F05032" width="40"> <img src="https://skillicons.dev/icons?i=linux" width="40"> <img src="https://skillicons.dev/icons?i=figma" width="40"> <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="40"> <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="40"> |
+<div align="center">
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td><b>Programming Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=js" width="40">
+      <img src="https://skillicons.dev/icons?i=ts" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40">
+      <img src="https://skillicons.dev/icons?i=php" width="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react" width="40">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="40">
+      <img src="https://skillicons.dev/icons?i=vite" width="40">
+      <img src="https://skillicons.dev/icons?i=astro" width="40">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40">
+      <img src="https://cdn.simpleicons.org/mui/007FFF" width="40">
+      <img src="https://cdn.simpleicons.org/html5/E34F26" width="40">
+      <img src="https://cdn.simpleicons.org/css3/1572B6" width="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend Development</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40">
+      <img src="https://skillicons.dev/icons?i=express" width="40">
+      <img src="https://skillicons.dev/icons?i=flask" width="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mobile App Development</b></td>
+    <td>
+      <img src="https://cdn.simpleicons.org/android/3DDC84" width="40">
+      <img src="https://reactnative.dev/img/header_logo.svg" width="40">
+      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI/ML</b></td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40">
+      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40">
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=gcp" width="40">
+      <img src="https://skillicons.dev/icons?i=aws" width="40">
+      <img src="https://skillicons.dev/icons?i=firebase" width="40">
+      <img src="https://skillicons.dev/icons?i=docker" width="40">
+      <img src="https://skillicons.dev/icons?i=kubernetes" width="40">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Others</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=matlab" width="40">
+      <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40">
+      <img src="https://cdn.simpleicons.org/git/F05032" width="40">
+      <img src="https://skillicons.dev/icons?i=linux" width="40">
+      <img src="https://skillicons.dev/icons?i=figma" width="40">
+      <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="40">
+      <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="40">
+    </td>
+  </tr>
+</table>
+
+</div>
+
 
 <br clear="both">
 
