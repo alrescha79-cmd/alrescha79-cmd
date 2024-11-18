@@ -130,12 +130,13 @@
 
 ###
 
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=4la0onkb7z65yks3gmr6yzj3o&width=600)
+
 <br clear="both">
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-##
 
 <h5 align="center">&copy Copyright 2024 | Anggun Caksono</h5>
 
