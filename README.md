@@ -4,7 +4,11 @@
 
 ## 💫 About Me
 
-<h3 align="center">I am an enthusiastic Informatics Engineering student and Fullstack Developer, an alum of Bangkit Academy 2024. I have skills in web and mobile app development, cloud computing, and am proficient in React, Node.js, Google Cloud Platform, and Agile methodologies. Selected for Bangkit’s Entrepreneur Track, I gained startup experience and am open to opportunities in software development and cloud technology, ready to contribute to innovative projects.</h3>
+<h3 align="justify">I am an enthusiastic Informatics Engineering student, Fullstack Developer, and Machine Learning enthusiast. An alum of Bangkit Academy 2024 (Cloud Computing path), I gained valuable experience through the Entrepreneur Track, sharpening my startup mindset. I have strong skills in web and mobile app development, cloud computing, and machine learning, and I'm proficient in React, Node.js, Google Cloud Platform, and Agile methodologies. I’m always open to opportunities in software development, cloud technology, and ML-related projects.</h3>
+
+### Ready to contribute to innovative solutions.
+[🌐 cakson.my.id](https://cakson.my.id/)
+📧 anggun@cakson.my.id
 
 ##
 
