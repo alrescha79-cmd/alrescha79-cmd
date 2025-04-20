@@ -1,6 +1,4 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
-<h1 align="center">Hi 👋, I'm Anggun Caksono</h1>
+<img src="https://github.com/alrescha79-cmd/alrescha79-cmd/blob/ef7f3f8fcf2d99a6139049109fff4aa1f1ac607f/son.gif" alt="Hi, I am" width="100%" loop=infinite />
 
 ## 💫 About Me
 
