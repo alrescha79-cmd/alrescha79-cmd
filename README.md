@@ -1,4 +1,4 @@
-<img src="https://cakson.sirv.com/cakson.gif" alt="Hi, I am" width="100%"/>
+<img src="./ezgif-4f2a0a1abbd481.gif" alt="Hi, I am" width="100%"/>
 
 
 ## 💫 About Me
