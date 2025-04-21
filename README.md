@@ -118,15 +118,15 @@
 ## 📊 GitHub Stats:    [![](https://visitor-badge.laobi.icu/badge?page_id=alrescha79-cmd.alrescha79-cmd&label=Profile%20Views&left_color=gray&right_color=green)](https://visitcount.itsvg.in) <img src="https://badges.pufler.dev/repos/alrescha79-cmd"  alt="repo graph"  /> <img src="https://badges.pufler.dev/commits/monthly/alrescha79-cmd"  alt="commits graph"  />
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=alrescha79-cmd&theme=microsoft-dark" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=alrescha79-cmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alrescha79-cmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=25&theme=chartreuse-dark&hide_border=false&order=2" height="400" alt="languages graph"  />
   <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=78132935" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78132935&image_size=auto&color_scheme=dark" width="771" height="auto">
     <img alt="Dashboard stats of @alrescha79-cmd" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78132935&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
-  <img src="https://streak-stats.demolab.com?user=alrescha79-cmd&theme=microsoft-dark" height="175" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=alrescha79-cmd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=chartreuse-dark&locale=en&hide_border=false&order=1" height="175" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alrescha79-cmd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=25&theme=chartreuse-dark&hide_border=false&order=2" height="400" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alrescha79-cmd&bg_color=000000&color=ffffff&line=333333&point=fffafa&area=true&radius=16"  alt="activity"/>
   <img src="https://github-profile-trophy.vercel.app?username=alrescha79-cmd&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/alrescha79-cmd/alrescha79-cmd/output/snake-dark.svg" alt="Snake animation" />
