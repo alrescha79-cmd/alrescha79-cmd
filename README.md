@@ -1,13 +1,13 @@
 <img src="./ezgif-4f2a0a1abbd481.gif" alt="Hi, I am" width="100%"/>
 
-
 ## 💫 About Me
 
 <h3 align="justify">I am an enthusiastic Informatics Engineering student, Fullstack Developer, and Machine Learning enthusiast. An alum of Bangkit Academy 2024 (Cloud Computing path), I gained valuable experience through the Entrepreneur Track, sharpening my startup mindset. I have strong skills in web and mobile app development, cloud computing, and machine learning, and I'm proficient in React, Node.js, Google Cloud Platform, and Agile methodologies. I’m always open to opportunities in software development, cloud technology, and ML-related projects.</h3>
 
-### Ready to contribute to innovative solutions.
+### Ready to contribute to innovative solutions
+
 [🌐 cakson.my.id](https://cakson.my.id/)
-📧 anggun@cakson.my.id
+📧 <anggun@cakson.my.id>
 
 ##
 
@@ -111,12 +111,18 @@
 
 </div>
 
-
 <br clear="both">
 
 ###
 
 ## 📊 GitHub Stats:    [![](https://visitor-badge.laobi.icu/badge?page_id=alrescha79-cmd.alrescha79-cmd&label=Profile%20Views&left_color=gray&right_color=green)](https://visitcount.itsvg.in) <img src="https://badges.pufler.dev/repos/alrescha79-cmd"  alt="repo graph"  /> <img src="https://badges.pufler.dev/commits/monthly/alrescha79-cmd"  alt="commits graph"  />
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=78132935" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78132935&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @alrescha79-cmd" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=78132935&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alrescha79-cmd&theme=microsoft-dark" height="175" alt="streak graph"  />
@@ -126,7 +132,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=alrescha79-cmd&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/alrescha79-cmd/alrescha79-cmd/output/snake-dark.svg" alt="Snake animation" />
 </div>
-
 
 ### ✍️ Random Dev Quote
 
@@ -140,9 +145,7 @@
 
 <br clear="both">
 
-
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
 
 <h5 align="center">&copy Copyright 2024 | Anggun Caksono</h5>
 
