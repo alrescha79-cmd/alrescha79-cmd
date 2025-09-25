@@ -1,4 +1,6 @@
-<img src="./ezgif-4f2a0a1abbd481.gif" alt="Hi, I am" width="100%"/>
+# Hi there, I'm Anggun Caksono
+
+![Anggun Caksono](https://readme-typing-svg.demolab.com?font=Capriola&size=64&duration=4000&pause=550&color=F70069&background=FFFFAA00&center=true&random=false&width=1500&height=225&lines=Informatics+Engineering+Student;Fullstack+Developer;Machine+Learning+Enthusiast)
 
 ## 💫 About Me
 
@@ -115,7 +117,7 @@
 
 ###
 
-## 📊 GitHub Stats:    [![](https://visitor-badge.laobi.icu/badge?page_id=alrescha79-cmd.alrescha79-cmd&label=Profile%20Views&left_color=gray&right_color=green)](https://visitcount.itsvg.in) <img src="https://badges.pufler.dev/repos/alrescha79-cmd"  alt="repo graph"  /> <img src="https://badges.pufler.dev/commits/monthly/alrescha79-cmd"  alt="commits graph"  />
+## 📊 GitHub Stats:    [![](https://visitor-badge.laobi.icu/badge?page_id=alrescha79-cmd.alrescha79-cmd&label=Profile%20Views&left_color=gray&right_color=green)](https://visitcount.itsvg.in)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alrescha79-cmd&theme=microsoft-dark" height="175" alt="streak graph"  />
