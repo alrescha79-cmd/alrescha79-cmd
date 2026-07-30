@@ -32,49 +32,35 @@ I'm an enthusiastic **Informatics Engineering student**, **Fullstack Developer**
 
 ## 💻 Tech Stack
 
-<div align="center">
-
-### 🔤 Programming Languages
-<img src="https://skillicons.dev/icons?i=js,ts,kotlin,php,py,go" height="45"/>
-
-### 🎨 Frontend Development
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,astro,tailwind,bootstrap" height="45"/>
-<br/>
-<img src="https://cdn.simpleicons.org/mui/007FFF" width="40">
-<img src="https://cdn.simpleicons.org/html5/E34F26" width="40">
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="40">
-
-### ⚙️ Backend Development
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" height="45"/>
-
-### 📱 Mobile App Development
-<img src="https://cdn.simpleicons.org/android/3DDC84" width="40">
-<img src="https://reactnative.dev/img/header_logo.svg" width="40">
-<img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40">
-
-### 🤖 AI / Machine Learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40">
-
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" height="45"/>
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,kubernetes" height="45"/>
-
-### 🛠️ Tools & Others
-<img src="https://skillicons.dev/icons?i=linux,figma,matlab" height="45"/>
-<br/>
-<img src="https://cdn.simpleicons.org/postman/FF6C37" width="40">
-<img src="https://cdn.simpleicons.org/git/F05032" width="40">
-<img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="40">
-<img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="40">
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><b>🔤 Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=js,ts,kotlin,php,py,go" height="45"/></td>
+    <td align="center"><b>🗄️ Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite" height="45"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🎨 Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vite,astro,tailwind,bootstrap" height="45"/> <img src="https://cdn.simpleicons.org/mui/007FFF" width="40"> <img src="https://cdn.simpleicons.org/html5/E34F26" width="40"> <img src="https://cdn.simpleicons.org/css3/1572B6" width="40"></td>
+    <td align="center"><b>☁️ Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=gcp,aws,firebase,docker,kubernetes" height="45"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>⚙️ Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express,flask" height="45"/></td>
+    <td align="center"><b>🛠️ Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=linux,figma,matlab" height="45"/> <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40"> <img src="https://cdn.simpleicons.org/git/F05032" width="40"> <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" width="40"> <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" width="40"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>📱 Mobile</b></td>
+    <td><img src="https://cdn.simpleicons.org/android/3DDC84" width="40"> <img src="https://reactnative.dev/img/header_logo.svg" width="40"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40"></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 AI / ML</b></td>
+    <td colspan="3"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"></td>
+  </tr>
+</table>
 
 ---
 
